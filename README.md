@@ -1,5 +1,5 @@
 # 📌 My Custom Theme
-- To use the theme you must add this file in Visual Studio Code extensions folder.  
+- To use the theme you must add this file in Visual Studio Code **extensions** folder.  
 
 ## 📸 Screenshots
 
