@@ -3,7 +3,8 @@
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/10ae8bdb-3ae5-40c6-8c56-1f7836c83d2a" width="800">
+<img src="https://github.com/user-attachments/assets/9abddda7-34f0-4517-a59e-1b927e7ee0cd" width="800">
+<img src="https://github.com/user-attachments/assets/d172b945-53d8-4684-a400-94868df6a6d3" width="800">
 
 ## 📄 License
 
