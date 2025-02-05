@@ -8,7 +8,7 @@
 
 ## 📄 License
 
-This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Video-Downloader/blob/main/License.txt)
+This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/My-Cutom-VS-Code-Theme-/blob/main/License.txt)
 
 ---
 
